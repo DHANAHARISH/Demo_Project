@@ -26,4 +26,7 @@
     stock splits or dividends, that occurred during the trading period, providing a more accurate representation of the stock's valuE 
     Volume: The trading volume of Netflix stock on each trading day, representing the total number of shares traded.
 
+#Dataset get from kaggle
+https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
+
 
