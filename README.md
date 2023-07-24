@@ -30,3 +30,7 @@
 https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
 
 
+
+
+https://github.com/DHANAHARISH/MACHINE_LEARING_PROJECT/assets/122033740/5bac5eb7-563f-40c2-8d8d-7a1bba359414
+
